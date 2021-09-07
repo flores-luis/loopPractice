@@ -55,6 +55,19 @@ the loop at some point of time. Otherwise, your loop will never end and your bro
 
 
 // Do While loop----------------------------------------------------------------------------------------
+/*
+
+do {
+    block of code to be executed
+} while (condition)
+
+The do…while loop is very similar to while loop. The only difference is that in do…while loop, 
+the block of code gets executed once even before checking the condition.
+
+*/
+
+console.log("This is a Do While loop")
+
 
 // For...in loop----------------------------------------------------------------------------------------
 
